@@ -1,4 +1,4 @@
-# 🎧 Spotify Popularity Predictor
+# 🎧 Popularity Song Predictor
 
 Proyecto de *machine learning* para **predecir la popularidad de canciones en Spotify** usando características extraídas y procesadas de datasets de Kaggle.
 
@@ -15,15 +15,13 @@ Este repositorio implementa modelos de regresión para predecir la **popularidad
 - 🎤 Liveness
 - ⏱️ Tempo
 - ⏳ Duration
-- 🌟 Artist popularity
-- 👥 Followers
 - ...y más
 
 El objetivo es construir un modelo robusto que ayude a entender qué factores influyen en el éxito de una canción.
 
 ---
 
-## 🧠 Algoritmos Utilizados
+## 🧠 Algoritmos
 
 - 🌳 `RandomForestRegressor` (modelo principal)
 - 📈 `LinearRegression`
@@ -82,8 +80,3 @@ spotify-popularity-ml/
 
 ¡Las contribuciones son bienvenidas! Por favor, abre un *issue* o envía un *pull request* para sugerencias o mejoras.
 
----
-
-## 📄 Licencia
-
-Este proyecto está bajo la licencia MIT. Consulta el archivo `LICENSE`
